@@ -1,0 +1,6 @@
+#ignore jupyter lab folders
+.ipynb_checkpoints
+.virtual_documents
+
+#ignore data folder
+data
