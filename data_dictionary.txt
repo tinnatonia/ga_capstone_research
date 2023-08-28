@@ -1,0 +1,15 @@
+# Data Dictionary
+
+## languages.csv
+*ID* 
+*Name*
+*Macroarea*
+*Latitude*
+*Longitude*
+*Glottocode* - language identification codes
+*Provenance* - 
+*Family_name*
+*Family_level_ID*
+*Language_level_ID*
+*Level*
+*Lineage* - family nests
