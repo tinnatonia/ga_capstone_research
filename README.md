@@ -1,6 +1,6 @@
 # GA Capstone Research Topics
 
-Preliminary research for my GA DAI Capstone Project, exploring two possible topics and relevant datasets
+#### Preliminary research for my GA DAI Capstone Project, exploring two possible topics and relevant datasets
 ---
 # Table of Contents:
 > .gitignore - feel free to gitIgnore this! I won't mind.
