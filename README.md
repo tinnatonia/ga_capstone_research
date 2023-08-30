@@ -14,14 +14,15 @@
 
 ### Linguistics: 
 - some uncommon/non ASCII characters have to be dealt with
-- will have to scrape from UNESCO for # of speakers and status (cannot find in glottolog yet but I KNOW it's there)
+- will have to scrape from UNESCO for # of speakers
 - data for revitalization (unsure if I can find it)
 - [Grambank](https://grambank.clld.org/)
 - [Glottolog](https://github.com/glottolog/glottolog/tree/master)
 - [CLDF](https://cldf.clld.org/) - Cross-Linguistic Data Formats
-- glotto has huge data set compared to gram, but lots of missing countries & dates of doco missing
+- glotto has huge data set compared to gram, but lots of missing data - check this out
 
-
-languages=pd.read_csv(filepath_or_buffer='.\data\glottolog_cldf\cldf\languages.csv')
-#profile=ProfileReport(languages, title='languages.csv Profiling Report')
-languages.head()
+##### Data Cleaning:
+###### Glottolog
+- Nulls:
+> Countries - drop - location data from lat/long
+> Macroarea - drop - geo/political subdivisions, irrelevant
