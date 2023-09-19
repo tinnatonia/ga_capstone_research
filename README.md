@@ -4,6 +4,26 @@
 
 ---
 ## Table of Contents:
+
+
+
+
+
+<details>
+  <summary>FOLDER</summary>
+  
+  ### Folder name
+1. doc 1
+2. doc 2
+3. etc
+
+  ```
+</details>
+
+
+
+
+
 - .gitignore - feel free to gitIgnore this! I won't mind.
 - README.md - you are here! Hi!
 - data_dictionary.txt - relevant data labels
