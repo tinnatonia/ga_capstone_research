@@ -2,5 +2,10 @@
 .ipynb_checkpoints
 .virtual_documents
 
+capstone.twb
+
 #ignore data folder
 data
+
+#ignore glottolog folder
+glottolog
